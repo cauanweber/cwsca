@@ -1,6 +1,12 @@
 # Hello World! 👋
 
 
+```
+let myName = "Cauan Weber";
+let myYearsOld = 15;
+
+console.log("Olá, Meu nome é " + myName + " é atualmente tenho " + myYearsOld + " anos!");
+```
 
 <!--
 **cwsca/cwsca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
